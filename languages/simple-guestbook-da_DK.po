@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Guestbook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-17 15:12+0000\n"
+"PO-Revision-Date: 2023-11-17 16:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: simple-guestbook"
+
+#. Description of the plugin
+msgid "A guestbook based on page comments"
+msgstr "En gæstebog baseret på sidekommentarer"
+
+#: admin/class-simple-guestbook-admin.php:142
+msgid "Allow reply for editors?"
+msgstr "Tillad svar til redaktører?"
+
+#: admin/class-simple-guestbook-admin.php:173
+msgid "ascending"
+msgstr "stigende"
+
+#: admin/class-simple-guestbook-admin.php:106
+msgid "Avatar size (0-96)"
+msgstr "Avatar-størrelse (0-96)"
+
+#: admin/class-simple-guestbook-admin.php:390
+msgid "Avatar size value should be between 0 and 96."
+msgstr "Værdien for avatarstørrelse skal være mellem 0 og 96."
+
+#: admin/class-simple-guestbook-admin.php:124
+msgid "Custom avatar URL"
+msgstr "Brugerdefineret avatar-URL"
+
+#: admin/class-simple-guestbook-admin.php:172
+msgid "descending"
+msgstr "faldende"
+
+#: admin/class-simple-guestbook-admin.php:308
+msgid "Deactivated"
+msgstr "Deaktiveret"
+
+#: admin/class-simple-guestbook-admin.php:313
+msgid "Enabled for guestbooks"
+msgstr "Aktiveret for gæstebøger"
+
+#: admin/class-simple-guestbook-admin.php:318
+msgid "Enabled for the entire site"
+msgstr "Aktiveret for hele webstedet"
+
+#: public/class-simple-guestbook-public.php:322
+msgid "Entries"
+msgstr "Indgange"
+
+#: admin/class-simple-guestbook-admin.php:97
+msgid "Entries per page (1-50)"
+msgstr "Indlæg pr. side (1-50)"
+
+#: admin/class-simple-guestbook-admin.php:253
+msgid "Image from your media library"
+msgstr "Billede fra dit mediebibliotek"
+
+#: admin/class-simple-guestbook-admin.php:133
+msgid "JS comment form validation"
+msgstr "JS validering af kommentarformular"
+
+#: admin/class-simple-guestbook-admin.php:378
+msgid "Per page value should be between 1 and 50."
+msgstr "Værdien pr. side skal være mellem 1 og 50."
+
+#: admin/class-simple-guestbook-admin.php:402
+msgid "Please choose a custom avatar from your media library as well."
+msgstr "Vælg også en brugerdefineret avatar fra dit mediebibliotek."
+
+#: public/class-simple-guestbook-public.php:260
+msgid "Show guestbook"
+msgstr "Vis gæstebog"
+
+#: public/class-simple-guestbook-public.php:263
+#: public/class-simple-guestbook-public.php:321
+msgid "Sign guestbook"
+msgstr "Skriv i gæstebogen"
+
+#. Name of the plugin
+#: admin/class-simple-guestbook-admin.php:54
+#: admin/class-simple-guestbook-admin.php:55
+msgid "Simple Guestbook"
+msgstr "Enkel gæstebog"
+
+#: admin/class-simple-guestbook-admin.php:88
+msgid "Sort order"
+msgstr "Sorteringsrækkefølge"
+
+#: admin/class-simple-guestbook-admin.php:366
+msgid "Sort order property out of range."
+msgstr "Egenskab for sorteringsrækkefølge uden for rækkevidde."
+
+#: admin/class-simple-guestbook-admin.php:158
+msgid "To create a guestbook page just use the shortcode"
+msgstr "For at oprette en gæstebogsside skal du bare bruge kortkoden"
+
+#: admin/class-simple-guestbook-admin.php:115
+msgid "Use custom avatar?"
+msgstr "Brug brugerdefineret avatar?"
+
+#: admin/class-simple-guestbook-admin.php:414
+msgid "Validation property out of range."
+msgstr "Valideringsegenskab uden for rækkevidde."
+
+#: admin/class-simple-guestbook-admin.php:378
+#: admin/class-simple-guestbook-admin.php:390
+#: admin/class-simple-guestbook-admin.php:414
+msgid "You entered:"
+msgstr "Du kom ind:"

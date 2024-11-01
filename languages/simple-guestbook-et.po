@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Guestbook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-17 15:12+0000\n"
+"PO-Revision-Date: 2023-11-17 16:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Estonian\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: simple-guestbook"
+
+#. Description of the plugin
+msgid "A guestbook based on page comments"
+msgstr "Külalisteraamat, mis põhineb lehe kommentaaridel"
+
+#: admin/class-simple-guestbook-admin.php:142
+msgid "Allow reply for editors?"
+msgstr "Lubage vastamine toimetajatele?"
+
+#: admin/class-simple-guestbook-admin.php:173
+msgid "ascending"
+msgstr "tõusev"
+
+#: admin/class-simple-guestbook-admin.php:106
+msgid "Avatar size (0-96)"
+msgstr "Avatari suurus (0-96)"
+
+#: admin/class-simple-guestbook-admin.php:390
+msgid "Avatar size value should be between 0 and 96."
+msgstr "Avatari suuruse väärtus peaks olema vahemikus 0-96."
+
+#: admin/class-simple-guestbook-admin.php:124
+msgid "Custom avatar URL"
+msgstr "Kohandatud avatari URL"
+
+#: admin/class-simple-guestbook-admin.php:172
+msgid "descending"
+msgstr "laskuv"
+
+#: admin/class-simple-guestbook-admin.php:308
+msgid "Deactivated"
+msgstr "Deaktiveeritud"
+
+#: admin/class-simple-guestbook-admin.php:313
+msgid "Enabled for guestbooks"
+msgstr "Lubatud külalisteraamatute jaoks"
+
+#: admin/class-simple-guestbook-admin.php:318
+msgid "Enabled for the entire site"
+msgstr "Lubatud kogu saidi jaoks"
+
+#: public/class-simple-guestbook-public.php:322
+msgid "Entries"
+msgstr "Kirjed"
+
+#: admin/class-simple-guestbook-admin.php:97
+msgid "Entries per page (1-50)"
+msgstr "Kirjed lehekülje kohta (1-50)"
+
+#: admin/class-simple-guestbook-admin.php:253
+msgid "Image from your media library"
+msgstr "Pilt teie meediaraamatukogust"
+
+#: admin/class-simple-guestbook-admin.php:133
+msgid "JS comment form validation"
+msgstr "JS kommentaari vormi valideerimine"
+
+#: admin/class-simple-guestbook-admin.php:378
+msgid "Per page value should be between 1 and 50."
+msgstr "Väärtus lehekülje kohta peaks olema vahemikus 1 kuni 50."
+
+#: admin/class-simple-guestbook-admin.php:402
+msgid "Please choose a custom avatar from your media library as well."
+msgstr "Palun valige oma meediakogust ka kohandatud avatar."
+
+#: public/class-simple-guestbook-public.php:260
+msgid "Show guestbook"
+msgstr "Näita külalisteraamatut"
+
+#: public/class-simple-guestbook-public.php:263
+#: public/class-simple-guestbook-public.php:321
+msgid "Sign guestbook"
+msgstr "Allkiri külalisteraamatusse"
+
+#. Name of the plugin
+#: admin/class-simple-guestbook-admin.php:54
+#: admin/class-simple-guestbook-admin.php:55
+msgid "Simple Guestbook"
+msgstr "Lihtne külalisteraamat"
+
+#: admin/class-simple-guestbook-admin.php:88
+msgid "Sort order"
+msgstr "Sorteerimisjärjekord"
+
+#: admin/class-simple-guestbook-admin.php:366
+msgid "Sort order property out of range."
+msgstr "Sort order property out of range."
+
+#: admin/class-simple-guestbook-admin.php:158
+msgid "To create a guestbook page just use the shortcode"
+msgstr "Külalisteraamatu lehe loomiseks kasuta lihtsalt lühikoodi"
+
+#: admin/class-simple-guestbook-admin.php:115
+msgid "Use custom avatar?"
+msgstr "Kas kasutada kohandatud avatari?"
+
+#: admin/class-simple-guestbook-admin.php:414
+msgid "Validation property out of range."
+msgstr "Valideerimisomadus väljaspool vahemikku."
+
+#: admin/class-simple-guestbook-admin.php:378
+#: admin/class-simple-guestbook-admin.php:390
+#: admin/class-simple-guestbook-admin.php:414
+msgid "You entered:"
+msgstr "Sa sisenesid:"

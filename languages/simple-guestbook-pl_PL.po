@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Guestbook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-17 15:12+0000\n"
+"PO-Revision-Date: 2023-11-17 16:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: simple-guestbook"
+
+#. Description of the plugin
+msgid "A guestbook based on page comments"
+msgstr "Księga gości oparta na komentarzach na stronie"
+
+#: admin/class-simple-guestbook-admin.php:142
+msgid "Allow reply for editors?"
+msgstr "Zezwolić na odpowiedź dla redaktorów?"
+
+#: admin/class-simple-guestbook-admin.php:173
+msgid "ascending"
+msgstr "rosnący"
+
+#: admin/class-simple-guestbook-admin.php:106
+msgid "Avatar size (0-96)"
+msgstr "Rozmiar awatara (0-96)"
+
+#: admin/class-simple-guestbook-admin.php:390
+msgid "Avatar size value should be between 0 and 96."
+msgstr "Wartość rozmiaru awatara powinna wynosić od 0 do 96."
+
+#: admin/class-simple-guestbook-admin.php:124
+msgid "Custom avatar URL"
+msgstr "Niestandardowy adres URL awatara"
+
+#: admin/class-simple-guestbook-admin.php:172
+msgid "descending"
+msgstr "malejący"
+
+#: admin/class-simple-guestbook-admin.php:308
+msgid "Deactivated"
+msgstr "Dezaktywowany"
+
+#: admin/class-simple-guestbook-admin.php:313
+msgid "Enabled for guestbooks"
+msgstr "Włączone dla ksiąg gości"
+
+#: admin/class-simple-guestbook-admin.php:318
+msgid "Enabled for the entire site"
+msgstr "Włączone dla całej witryny"
+
+#: public/class-simple-guestbook-public.php:322
+msgid "Entries"
+msgstr "wpisy"
+
+#: admin/class-simple-guestbook-admin.php:97
+msgid "Entries per page (1-50)"
+msgstr "Wpisy na stronę (1-50)"
+
+#: admin/class-simple-guestbook-admin.php:253
+msgid "Image from your media library"
+msgstr "Obraz z biblioteki multimediów"
+
+#: admin/class-simple-guestbook-admin.php:133
+msgid "JS comment form validation"
+msgstr "Walidacja formularzy komentarzy JS"
+
+#: admin/class-simple-guestbook-admin.php:378
+msgid "Per page value should be between 1 and 50."
+msgstr "Wartość na stronę powinna wynosić od 1 do 50."
+
+#: admin/class-simple-guestbook-admin.php:402
+msgid "Please choose a custom avatar from your media library as well."
+msgstr "Wybierz również niestandardowy awatar z biblioteki multimediów."
+
+#: public/class-simple-guestbook-public.php:260
+msgid "Show guestbook"
+msgstr "Pokaż księgę gości"
+
+#: public/class-simple-guestbook-public.php:263
+#: public/class-simple-guestbook-public.php:321
+msgid "Sign guestbook"
+msgstr "Wpisz się do księgi gości"
+
+#. Name of the plugin
+#: admin/class-simple-guestbook-admin.php:54
+#: admin/class-simple-guestbook-admin.php:55
+msgid "Simple Guestbook"
+msgstr "Prosta księga gości"
+
+#: admin/class-simple-guestbook-admin.php:88
+msgid "Sort order"
+msgstr "Kolejność sortowania"
+
+#: admin/class-simple-guestbook-admin.php:366
+msgid "Sort order property out of range."
+msgstr "Właściwość sortowania poza zakresem."
+
+#: admin/class-simple-guestbook-admin.php:158
+msgid "To create a guestbook page just use the shortcode"
+msgstr "Aby utworzyć stronę księgi gości, wystarczy użyć shortcode"
+
+#: admin/class-simple-guestbook-admin.php:115
+msgid "Use custom avatar?"
+msgstr "Używasz niestandardowego awatara?"
+
+#: admin/class-simple-guestbook-admin.php:414
+msgid "Validation property out of range."
+msgstr "Właściwość walidacji poza zakresem."
+
+#: admin/class-simple-guestbook-admin.php:378
+#: admin/class-simple-guestbook-admin.php:390
+#: admin/class-simple-guestbook-admin.php:414
+msgid "You entered:"
+msgstr "Wpisano:"

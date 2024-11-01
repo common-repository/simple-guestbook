@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Guestbook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-17 15:12+0000\n"
+"PO-Revision-Date: 2023-11-17 16:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Lithuanian\n"
+"Language: lt_LT\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: simple-guestbook"
+
+#. Description of the plugin
+msgid "A guestbook based on page comments"
+msgstr "Svečių knyga pagal puslapio komentarus"
+
+#: admin/class-simple-guestbook-admin.php:142
+msgid "Allow reply for editors?"
+msgstr "Leisti atsakyti redaktoriams?"
+
+#: admin/class-simple-guestbook-admin.php:173
+msgid "ascending"
+msgstr "didėjančia tvarka"
+
+#: admin/class-simple-guestbook-admin.php:106
+msgid "Avatar size (0-96)"
+msgstr "Avataro dydis (0-96)"
+
+#: admin/class-simple-guestbook-admin.php:390
+msgid "Avatar size value should be between 0 and 96."
+msgstr "Avataro dydžio reikšmė turėtų būti nuo 0 iki 96."
+
+#: admin/class-simple-guestbook-admin.php:124
+msgid "Custom avatar URL"
+msgstr "Pasirinktinis avataro URL"
+
+#: admin/class-simple-guestbook-admin.php:172
+msgid "descending"
+msgstr "mažėjantis"
+
+#: admin/class-simple-guestbook-admin.php:308
+msgid "Deactivated"
+msgstr "Deaktyvuota"
+
+#: admin/class-simple-guestbook-admin.php:313
+msgid "Enabled for guestbooks"
+msgstr "Įjungta svečių knygoms"
+
+#: admin/class-simple-guestbook-admin.php:318
+msgid "Enabled for the entire site"
+msgstr "Įjungta visoje svetainėje"
+
+#: public/class-simple-guestbook-public.php:322
+msgid "Entries"
+msgstr "Įrašai"
+
+#: admin/class-simple-guestbook-admin.php:97
+msgid "Entries per page (1-50)"
+msgstr "Įrašai viename puslapyje (1-50)"
+
+#: admin/class-simple-guestbook-admin.php:253
+msgid "Image from your media library"
+msgstr "Vaizdas iš medijos bibliotekos"
+
+#: admin/class-simple-guestbook-admin.php:133
+msgid "JS comment form validation"
+msgstr "JS komentarų formos patvirtinimas"
+
+#: admin/class-simple-guestbook-admin.php:378
+msgid "Per page value should be between 1 and 50."
+msgstr "Vieno puslapio vertė turėtų būti nuo 1 iki 50."
+
+#: admin/class-simple-guestbook-admin.php:402
+msgid "Please choose a custom avatar from your media library as well."
+msgstr "Taip pat pasirinkite pasirinktinį avatarą iš savo medijos bibliotekos."
+
+#: public/class-simple-guestbook-public.php:260
+msgid "Show guestbook"
+msgstr "Rodyti svečių knygą"
+
+#: public/class-simple-guestbook-public.php:263
+#: public/class-simple-guestbook-public.php:321
+msgid "Sign guestbook"
+msgstr "Pasirašykite svečių knygą"
+
+#. Name of the plugin
+#: admin/class-simple-guestbook-admin.php:54
+#: admin/class-simple-guestbook-admin.php:55
+msgid "Simple Guestbook"
+msgstr "Paprasta svečių knyga"
+
+#: admin/class-simple-guestbook-admin.php:88
+msgid "Sort order"
+msgstr "Rūšiavimo tvarka"
+
+#: admin/class-simple-guestbook-admin.php:366
+msgid "Sort order property out of range."
+msgstr "Rūšiavimo tvarkos savybė yra už diapazono ribų."
+
+#: admin/class-simple-guestbook-admin.php:158
+msgid "To create a guestbook page just use the shortcode"
+msgstr ""
+"Norėdami sukurti svečių knygos puslapį, tiesiog naudokite trumpąjį kodą"
+
+#: admin/class-simple-guestbook-admin.php:115
+msgid "Use custom avatar?"
+msgstr "Naudoti pasirinktinį avatarą?"
+
+#: admin/class-simple-guestbook-admin.php:414
+msgid "Validation property out of range."
+msgstr "Patvirtinimo savybė yra už diapazono ribų."
+
+#: admin/class-simple-guestbook-admin.php:378
+#: admin/class-simple-guestbook-admin.php:390
+#: admin/class-simple-guestbook-admin.php:414
+msgid "You entered:"
+msgstr "Jūs įėjote:"

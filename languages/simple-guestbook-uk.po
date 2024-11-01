@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Guestbook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-17 15:12+0000\n"
+"PO-Revision-Date: 2023-11-17 16:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: simple-guestbook"
+
+#. Description of the plugin
+msgid "A guestbook based on page comments"
+msgstr "Гостьова книга на основі коментарів на сторінці"
+
+#: admin/class-simple-guestbook-admin.php:142
+msgid "Allow reply for editors?"
+msgstr "Дозволити відповідь для редакторів?"
+
+#: admin/class-simple-guestbook-admin.php:173
+msgid "ascending"
+msgstr "висхідний"
+
+#: admin/class-simple-guestbook-admin.php:106
+msgid "Avatar size (0-96)"
+msgstr "Розмір аватара (0-96)"
+
+#: admin/class-simple-guestbook-admin.php:390
+msgid "Avatar size value should be between 0 and 96."
+msgstr "Значення розміру аватара має бути в діапазоні від 0 до 96."
+
+#: admin/class-simple-guestbook-admin.php:124
+msgid "Custom avatar URL"
+msgstr "Власна URL-адреса аватара"
+
+#: admin/class-simple-guestbook-admin.php:172
+msgid "descending"
+msgstr "спадний"
+
+#: admin/class-simple-guestbook-admin.php:308
+msgid "Deactivated"
+msgstr "Деактивовано"
+
+#: admin/class-simple-guestbook-admin.php:313
+msgid "Enabled for guestbooks"
+msgstr "Увімкнено для гостьових книг"
+
+#: admin/class-simple-guestbook-admin.php:318
+msgid "Enabled for the entire site"
+msgstr "Увімкнено для всього сайту"
+
+#: public/class-simple-guestbook-public.php:322
+msgid "Entries"
+msgstr "Записи на участь у конкурсі"
+
+#: admin/class-simple-guestbook-admin.php:97
+msgid "Entries per page (1-50)"
+msgstr "Записи на сторінці (1-50)"
+
+#: admin/class-simple-guestbook-admin.php:253
+msgid "Image from your media library"
+msgstr "Зображення з медіатеки"
+
+#: admin/class-simple-guestbook-admin.php:133
+msgid "JS comment form validation"
+msgstr "Перевірка форми коментаря на JS"
+
+#: admin/class-simple-guestbook-admin.php:378
+msgid "Per page value should be between 1 and 50."
+msgstr "Кількість сторінок на сторінку має бути від 1 до 50."
+
+#: admin/class-simple-guestbook-admin.php:402
+msgid "Please choose a custom avatar from your media library as well."
+msgstr "Будь ласка, виберіть власний аватар з вашої медіатеки."
+
+#: public/class-simple-guestbook-public.php:260
+msgid "Show guestbook"
+msgstr "Показати гостьову книгу"
+
+#: public/class-simple-guestbook-public.php:263
+#: public/class-simple-guestbook-public.php:321
+msgid "Sign guestbook"
+msgstr "Підписати гостьову книгу"
+
+#. Name of the plugin
+#: admin/class-simple-guestbook-admin.php:54
+#: admin/class-simple-guestbook-admin.php:55
+msgid "Simple Guestbook"
+msgstr "Проста гостьова книга"
+
+#: admin/class-simple-guestbook-admin.php:88
+msgid "Sort order"
+msgstr "Порядок сортування"
+
+#: admin/class-simple-guestbook-admin.php:366
+msgid "Sort order property out of range."
+msgstr "Властивість порядку сортування поза діапазоном."
+
+#: admin/class-simple-guestbook-admin.php:158
+msgid "To create a guestbook page just use the shortcode"
+msgstr "Щоб створити сторінку гостьової книги, просто використовуйте шорткод"
+
+#: admin/class-simple-guestbook-admin.php:115
+msgid "Use custom avatar?"
+msgstr "Використовувати власний аватар?"
+
+#: admin/class-simple-guestbook-admin.php:414
+msgid "Validation property out of range."
+msgstr "Властивість валідації поза діапазоном."
+
+#: admin/class-simple-guestbook-admin.php:378
+#: admin/class-simple-guestbook-admin.php:390
+#: admin/class-simple-guestbook-admin.php:414
+msgid "You entered:"
+msgstr "Ти увійшов:"
